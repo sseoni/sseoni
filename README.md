@@ -1,8 +1,4 @@
-![header](
-<a href="https://fontmeme.com/ktype/thesignature-font/">
-  <img src="https://fontmeme.com/previewtext.png" alt="thesignature-font" border="0">
-</a>
-)
+![header](https://fontmeme.com/temporary/4b5670546012c2b4f41dc6aa3fab8c9e.png![image](https://github.com/user-attachments/assets/9026d9f4-8b53-4b70-869d-857f0c5d613e))
 
 <body>
   <p>
