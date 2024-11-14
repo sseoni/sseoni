@@ -1,10 +1,12 @@
-![header](https://fontmeme.com/temporary/4b5670546012c2b4f41dc6aa3fab8c9e.png![image](https://github.com/user-attachments/assets/9026d9f4-8b53-4b70-869d-857f0c5d613e))
+<div align=center>
+<br><br>
 
-<body>
-  <p>
-  Hello, there! I'm an AI engineer from Seoul.
-  I aspire to be a warm, illuminating force for a better world through AI.
-  
-  For the world full of love, send you my 🫶🏻
-  </p>
-</body>
+![header](https://github.com/user-attachments/assets/78d52f95-01cc-404e-9a82-cae1736112ad)
+<br><br><br>
+I'm a student/AI engineer from Seoul.<br>
+I aspire to be a warm, illuminating force for a better world through AI.<br><br>
+For the world full of love, send you my 🫶🏻<br><br>
+
+👩🏻‍💻 [Blog](https://sseoni.github.io) \| 🐶 [Linkedin](https://www.linkedin.com/in/seohyun-shin-4529b330b) \| 🥐 [Instagram](https://www.instagram.com/addev.py/profilecard/?igsh=ZHVkYzIybWpqdDFs) | ✨
+
+</div>
